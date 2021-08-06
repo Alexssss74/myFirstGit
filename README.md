@@ -16,3 +16,8 @@ Week 3 - NodeJS as a Server
 | Week 2 - Code Version Control with Git and GitHub | ----------- |
 | Week 3 - NodeJS as a Server | Title |
 | Week 4 - Angular | Text |
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
