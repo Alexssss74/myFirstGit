@@ -7,17 +7,12 @@
 *Run instructions: Nothing for now*
 
 
-Week 1 - Introduction to JavaScript and Nodejs
-Week 2 - Code Version Control with Git and GitHub
-Week 3 - NodeJS as a Server
 
 
-| 3813ICT | Week 1 - Introduction to JavaScript and Nodejs |
+| 3813ICT | Course Content  |
 | ----------- | ----------- |
-| Week 3 - NodeJS as a Server | Title |
-| Week 4 - Angular | Text |
+| Week 1   | Introduction to JavaScript and Nodejs |
+| Week 2   | Code Version Control with Git and GitHub |
+| Week 3   | NodeJS as a Server |
+| Week 4   | Angular |
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
