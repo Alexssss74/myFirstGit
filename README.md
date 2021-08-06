@@ -1,8 +1,8 @@
-# ** Project title: MyFirstGit **
+#  Project title: MyFirstGit 
 
 ## Project description:In this week2's lab I need to be setting up git, creating branches and solving a merge conflict.
 
-Install instructions: Nothing for now
+*Install instructions: Nothing for now*
 
 Run instructions: Nothing for now
 
